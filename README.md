@@ -1,6 +1,6 @@
 Children spend a large portion of their day inside classrooms, making them particularly vulnerable to air pollution, especially in fine particulate matter. Their respiratory and cardiovascular systems are still developing, and prolonged exposure to PM₂.₅, Black Carbon (BC), and Ultrafine Particles (UFPs) can significantly affect their lung function, cognitive performance, and long-term health outcomes. Understanding air quality in school environments is therefore crucial for protecting children’s health and improving indoor air management strategies.
 
-![image alt](https://github.com/rivanchandraroy/Home-project/blob/main/Summary%20of%20Analysis.png?raw=true)
+![image alt](https://github.com/rivanchandraroy/School-project_1/blob/main/Diurnal%20Variation%20in%20different%20urban%20setting.png?raw=true)
 
 Key Activities & Outcomes:
 •	Deployed low-cost air quality sensors in 10 schools representing urban, suburban, and rural environments to measure PM₁, PM₂.₅, and PM₁₀ levels.
