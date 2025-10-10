@@ -16,4 +16,4 @@ Key Activities & Outcomes:
 •	Generated insights to support health-focused school ventilation strategies and policy recommendations for safer learning environments.
 
 
-![image alt](https://github.com/rivanchandraroy/Home-project/blob/main/Summary%20of%20Analysis.png?raw=true)
+![image alt](https://github.com/rivanchandraroy/School-project_1/blob/main/Concentration%20summary%20in%20different%20season.png?raw=true)
