@@ -1,4 +1,4 @@
-# 🏫 Air Quality Monitoring in School Environments
+# Air Quality Monitoring in School Environments
 
 ### Understanding Children’s Exposure to Fine Particulate Matter in Different Urban Settings
 
@@ -18,34 +18,35 @@ Understanding air quality in school environments is therefore **crucial for prot
 
 ---
 
-## 2. Key Activities & Outcomes
+## 2. Methodologies
 
-### 🧪 Monitoring and Data Collection
-- Deployed **low-cost air quality sensors** in **10 schools** representing **urban**, **suburban**, and **rural environments** to measure **PM₁**, **PM<sub>2.5</sub>**, and **PM₁₀** levels.
-- Collected and analyzed **real-time data** on particulate matter and **Air Quality Index (AQI)**, followed by **data validation and quality control** of large datasets.
+### 2.1 Overview
+**low-cost air quality sensors** was deployed in **10 schools** of **urban**, **suburban**, and **rural environments** to measure **PM₁**, **PM<sub>2.5</sub>**, and **PM₁₀** levels in different zones.
+**real-time data** was collected to analyze particulate matter and **Air Quality Index (AQI)**, followed by **data validation and quality control** of large datasets.
 
----
-
-### 🩺 Exposure and Health Assessment
-- Evaluated **students’ exposure levels** during classroom hours to estimate **potential respiratory and cognitive health risks**.
+Evaluated **students’ exposure levels** during classroom hours to estimate **potential respiratory and cognitive health risks**.
 
 ---
 
-### 🌦️ Environmental and Seasonal Analysis
-- Analyzed **spatiotemporal patterns** and **seasonal variations** to determine the **influence of environmental and microclimatic conditions** on air quality.
+### 2.2 Environmental and Seasonal Analysis
+Analyzed **spatiotemporal patterns** and **seasonal variations** to determine the **influence of environmental and microclimatic conditions** on air quality.
+
+By these analysis various insights to support **health-focused school ventilation strategies** and **policy recommendations** for **safer learning environments** was generated.
 
 ---
 
-### 💻 Computational Analysis
-- Used **Python** for data cleaning, statistical modeling, and visualization using:
+### 2.4 Technology Stack
+Used **Python** for data cleaning, statistical modeling, and visualization using:
   - `Pandas`
   - `NumPy`
   - `Matplotlib`
 
 ---
 
-### 🧠 Insights and Policy Implications
-- Generated insights to support **health-focused school ventilation strategies** and **policy recommendations** for **safer learning environments**.
+## 3. Results and Insights
+### 3.1 Seasonal Variation
+
+The PM<sub>2.5</sub> concentration shows annual seasonality. It reduces in significant amount in wet season and increases in dry season.
 
 ---
 
@@ -53,3 +54,10 @@ Understanding air quality in school environments is therefore **crucial for prot
 ![Concentration Summary in Different Seasons](https://github.com/rivanchandraroy/School-project_1/blob/main/Concentration%20summary%20in%20different%20season.png?raw=true)
 
 ---
+
+<!-- ### 3.2 Diurnal Variation
+
+### Figure 3. Diurnal variation of various matters
+
+![Diurnal variation of various matters](diurnal-variation-of-particulate-matters.png) -->
+
