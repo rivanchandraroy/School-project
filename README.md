@@ -55,9 +55,13 @@ The PM<sub>2.5</sub> concentration shows annual seasonality. It reduces in signi
 
 ---
 
-<!-- ### 3.2 Diurnal Variation
+### 3.2 Diurnal Variation
+
+Diurnal variation of various particulate matters like PM<sub>1.0</sub>, PM<sub>2.5</sub> and PM<sub>10.0</sub> was analyzed for wet and dry seasons. Then that variation was compared with the WHO guideline value and Bangladesh Standard threshold value of daily average for PM<sub>2.5</sub> and PM<sub>10.0</sub>.
 
 ### Figure 3. Diurnal variation of various matters
 
-![Diurnal variation of various matters](diurnal-variation-of-particulate-matters.png) -->
+![Diurnal variation of various matters](diurnal%20variation%20of%20particulate%20matters.png)
+
+
 
