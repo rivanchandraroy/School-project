@@ -6,8 +6,7 @@
 
 ## 1. Background
 
-Children spend a large portion of their day inside classrooms, making them **particularly vulnerable to air pollution**, especially from fine particulate matter.  
-Their respiratory and cardiovascular systems are still developing, and prolonged exposure to **PM<sub>2.5</sub>**, **Black Carbon (BC)**, and **Ultrafine Particles (UFPs)** can **significantly affect their lung function, cognitive performance, and long-term health outcomes**.  
+Children spend a large portion of their day inside classrooms, making them **particularly vulnerable to air pollution**, especially from fine particulate matter. Their respiratory and cardiovascular systems are still developing, and prolonged exposure to **PM<sub>2.5</sub>**, **Black Carbon (BC)**, and **Ultrafine Particles (UFPs)** can **significantly affect their lung function, cognitive performance, and long-term health outcomes**.  
 
 Understanding air quality in school environments is therefore **crucial for protecting children’s health** and improving **indoor air management strategies**.
 
@@ -22,9 +21,7 @@ Understanding air quality in school environments is therefore **crucial for prot
 
 ### 2.1 Overview
 **low-cost air quality sensors** was deployed in **10 schools** of **urban**, **suburban**, and **rural environments** to measure **PM₁**, **PM<sub>2.5</sub>**, and **PM₁₀** levels in different zones.
-**real-time data** was collected to analyze particulate matter and **Air Quality Index (AQI)**, followed by **data validation and quality control** of large datasets.
-
-Evaluated **students’ exposure levels** during classroom hours to estimate **potential respiratory and cognitive health risks**.
+**real-time data** was collected to analyze particulate matter and **Air Quality Index (AQI)**, followed by **data validation and quality control** of large datasets. Evaluated **students’ exposure levels** during classroom hours to estimate **potential respiratory and cognitive health risks**.
 
 ---
 
